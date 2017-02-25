@@ -5,5 +5,7 @@ public class YWDHello {
 	{
 		System.out.println("Hello Wondre!");
 		System.out.println("Hello Wondre agin!");
+		System.out.println("Hello Wondre the third time!");
+		System.out.println("Hello Wondre the fourth time!");
 	}
 }
